@@ -1,2 +1,2 @@
-# ubiquitous-waffle-some-game
+# zorbus-gorbus-gametest
 cis 376 spring 2026 some game demo. 
